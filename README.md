@@ -39,7 +39,7 @@
 
 #### 🧩 Tools & Other Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,github,git,figma,canva,vscode" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,github,git,figma,canva,vscode,discord" height="45" />
 </p>
 
 ---
