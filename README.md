@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header"/>
 </div>
 
-<h1 align="center">🌙 Hey, I'm <strong>Oswaldo Ruiz</strong></h1>
+<h1 align="center"> Hey, I'm <strong>Oswaldo Ruiz</strong></h1>
 <h3 align="center">Fullstack Developer & UI/UX Designer from Guadalajara, Mexico 🇲🇽</h3>
 <h4 align="center">English Level: B1 🌎</h4>
 
